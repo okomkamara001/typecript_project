@@ -12,7 +12,7 @@ export default function HomePage() {
           Image <span className="text-primary">Bard App</span>
         </h1>
         <p className="mt-4 text-xl text-muted-foreground max-w-2xl mx-auto">
-          Upload an image and let AI weave a poetic masterpiece inspired by its essence.
+          Upload an image, and watch as AI crafts a poetic creation inspired by its essence.
         </p>
       </header>
       <ImageBardClient />
